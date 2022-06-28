@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://gitfiilipeneto.github.io/csb-tusixc/static/js/main.f1cc48f9.chunk.js",
+    "main.js.map": "https://gitfiilipeneto.github.io/csb-tusixc/static/js/main.f1cc48f9.chunk.js.map",
+    "runtime-main.js": "https://gitfiilipeneto.github.io/csb-tusixc/static/js/runtime-main.cd553d84.js",
+    "runtime-main.js.map": "https://gitfiilipeneto.github.io/csb-tusixc/static/js/runtime-main.cd553d84.js.map",
+    "static/js/2.648c13e9.chunk.js": "https://gitfiilipeneto.github.io/csb-tusixc/static/js/2.648c13e9.chunk.js",
+    "static/js/2.648c13e9.chunk.js.map": "https://gitfiilipeneto.github.io/csb-tusixc/static/js/2.648c13e9.chunk.js.map",
+    "index.html": "https://gitfiilipeneto.github.io/csb-tusixc/index.html",
+    "static/js/2.648c13e9.chunk.js.LICENSE.txt": "https://gitfiilipeneto.github.io/csb-tusixc/static/js/2.648c13e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd553d84.js",
+    "static/js/2.648c13e9.chunk.js",
+    "static/js/main.f1cc48f9.chunk.js"
+  ]
+}
